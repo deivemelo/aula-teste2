@@ -1,3 +1,5 @@
+versao 2 
+
 1. branch eh uma ramificação do nosso projeto
 cria nova bracnh no bash
 $ git branch ramo01 (enter)
