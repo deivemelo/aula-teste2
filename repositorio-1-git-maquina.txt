@@ -1,7 +1,16 @@
 1. branch eh uma ramificação do nosso projeto
-cria nova bracnh no bash
+cria nova branch no bash
 $ git branch ramo01 (enter)
 $ git checkout nomeBranch (acessar branch)
 $ git branch (enter)
-git log (mostra os  commits)
+$ git log (mostra os  commits)
+$ git status
+$ git add .
+$ git commit
+$ git status
+$ git log
+$ git push ....
 
+**podemos alterar o arquivo na branch nova sem alterar a branch main
+
+alteração na branch ramo01
