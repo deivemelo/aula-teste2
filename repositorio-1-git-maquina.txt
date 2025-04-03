@@ -1,2 +1,4 @@
 criando mudança no arquivo para ver quando se muda de branch pelo comando
-$ git checkout nomedabranch
+$ git checkout nomedabranch 
+
+mudando pra testar
