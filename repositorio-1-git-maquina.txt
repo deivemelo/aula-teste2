@@ -2,3 +2,28 @@ criando mudança no arquivo para ver quando se muda de branch pelo comando
 $ git checkout nomedabranch 
 
 mudando pra testar
+
+-------------------------,
+1. branch eh uma ramificação do nosso projeto
+cria nova branch no bash
+$ git branch ramo01 (enter)
+$ git checkout nomeBranch (acessar branch)
+$ git branch (enter)
+$ git log (mostra os  commits)
+$ git status
+$ git add .
+$ git commit
+$ git status
+$ git log
+$ git push ....
+
+**podemos alterar o arquivo na branch nova sem alterar a branch main
+
+alteração na branch ramo01
+
+$ git checkout ramo01 (muda altomaticamente para branch)
+
+** trazer oque tem no ramo 01 para main
+
+
+---------------------------
